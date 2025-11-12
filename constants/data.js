@@ -8,12 +8,6 @@ export const SITE_DATA = {
   },
   nav: ["Home", "About", "Menu", , "Testimonials", "Contact"],
 
-  stats: [
-    { icon: "👨‍🍳", label: "Expert Chefs" },
-    { icon: "⭐", label: "5000+ Happy Customers" },
-    { icon: "🍽️", label: "50+ Menu Items" },
-  ],
-
   testimonials: [
     {
       name: "Anjali Verma",
@@ -58,16 +52,7 @@ export const SITE_DATA = {
       role: "Student",
     },
   ],
-
-  contact: {
-    phone: "+1 (555) 123-4567",
-    email: "hello@flavortown.com",
-    address: "123 Taste Street, Food City, FC 12345",
-    socials: ["f", "t", "ig", "ln"],
-  },
 };
-
-// constants/menuData.js
 
 // constants/menuData.js
 export const MENU_DATA = [
