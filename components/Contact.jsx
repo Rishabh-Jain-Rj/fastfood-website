@@ -93,9 +93,6 @@ export default function Contact() {
                 Send Message 🧡
               </button>
             </div>
-
-            {/* Hover glow */}
-            <div className="absolute inset-0 rounded-2xl bg-gradient-to-br from-orange-200/10 via-transparent to-transparent dark:from-red-400/10 opacity-0 hover:opacity-100 transition-all duration-300"></div>
           </form>
         </div>
       </div>
